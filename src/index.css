@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Fonts */
+  --font-display: "Inter", "sans-serif";
+
+  /* Colors */
+  --color-background: #0F111A;
+  --color-text: #E5E5E5;
+  --color-muted: #A0A0A0;
+  --color-accent: #00F5A0;
+  --color-hover-accent: #1AFFB2;
+  --color-card: #1A1C29;
+}
