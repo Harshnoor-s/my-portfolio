@@ -1,6 +1,6 @@
 export default function Navbar() {
     return (
-        <div>
+        <div class="hidden md:block">
             <nav class="text-display text-muted text-base">
                 <ul>
                     <li class="mb-2"><a href="#" class="hover:text-hover-accent hover:font-bold transition-all duration-200 ease-out">Home</a></li>
