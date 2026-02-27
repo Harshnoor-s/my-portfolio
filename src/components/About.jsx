@@ -1,6 +1,7 @@
 export default function About() {
     return (
         <div id="home">
+            <h2 class="md:hidden font-display text-1xl text-text mb-4 font-bold">About</h2>
             <p class="font-display text-base text-muted mb-3">
                 I'm a software engineer passionate about building clean, efficient, and user-friendly software. I enjoy learning new technologies and creating functional, reliable solutions that solve real problems across different platforms and applications.
             </p>

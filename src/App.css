@@ -6,4 +6,9 @@ html {
     color: #A0A0A0;
     padding-right:10px;
     font-size: 30px;
+    transition: color 0.5s ease-out;
+}
+
+.icon:hover {
+    color: #E5E5E5
 }

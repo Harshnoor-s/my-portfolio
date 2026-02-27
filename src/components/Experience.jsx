@@ -1,10 +1,10 @@
 export default function Experience() {
     return (
         <div id="experience" class="pt-30">
-            <h2 class="font-display text-2xl text-text mb-4">Experience</h2>
-            <div class="grid grid-cols-4 gap-4">
+            <h2 class="font-display text-1xl mb:text-2xl text-text mb-4 font-bold">Experience</h2>
+            <div class="md:grid grid-cols-4 gap-4">
                 <div>
-                    <p class="font-display text-xs text-muted mt-1">2023 — Present</p>
+                    <p class="font-display text-xs text-muted mt-1 mb-1">2023 — Present</p>
                 </div>
                 <div class="col-span-3">
                     <p class="font-display text-base text-text">The Hoppers Club — <i>Gaming Attendant</i></p>
