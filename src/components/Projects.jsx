@@ -11,12 +11,13 @@ export default function Projects() {
                 </div>
                 <div class="col-span-3 mb-10 md:mb-0">
                     <p class="font-display text-base text-text">Personal Portfolio Website</p>
-                    <p class="font-display text-xs text-muted mt-2 mb-1 md:mb-0">A single-page, responsive portfolio website built to showcase my skills, projects, and professional background. Designed with a clean, modern aesthetic and smooth scrolling navigation to highlight my work and experience as a software engineer.</p>
+                    <p class="font-display text-xs text-muted mt-2 mb-1 md:mb-0">Built and deployed a responsive single-page portfolio application using React.js and Vite. Designed reusable functional components with Tailwind CSS, following a mobile-first development approach. Integrated Git-based version control with automated CI/CD deployment via Vercel, enabling continuous integration and production-ready builds on each commit.</p>
                     <StackIcon>React.js</StackIcon>
                     <StackIcon>Vite</StackIcon>
                     <StackIcon>Tailwind CSS</StackIcon>
                     <StackIcon>JavaScript</StackIcon>
                     <StackIcon>HTML</StackIcon>
+                    <StackIcon>Vercel</StackIcon>
                 </div>
 
                 {/* Virtuals Skills Coach */}
